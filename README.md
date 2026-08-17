@@ -1,3 +1,6 @@
+
+# Clone-de-red-social---sala2
+
 # Clone-de-red-social---sala2
 
 # Clonacion de plataforma instagram
@@ -23,3 +26,4 @@
 # Victor - Creación de pagina principal
 # Daniel - Actividad
 # Aslan- Creeacion la pagina de perfil
+
